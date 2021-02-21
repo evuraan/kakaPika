@@ -45,7 +45,8 @@ I essentially don't care about their brand. I should be able to control them as 
 I wrote kakaPika to that effect. I am hoping this would be useful to others who have both these devices. 
 
 # Installing
-Download the zip file and extract the pre-built binary, suitable to your operating system, to a folder of your choice. 
+From the [Releases](https://github.com/evuraan/kakaPika/releases) page, download 
+the pre-built binary, suitable to your operating system, to a folder of your choice. 
 ## Compiling
 Optionally, if you want to compile your own binary, you would need to install [Go Programming Language](https://golang.org/).
 

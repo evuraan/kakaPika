@@ -30,7 +30,7 @@ vasantasamaye prāpte kākaḥ kākaḥ pikaḥ pikaḥ ||
 </pre>
 
 
-In the wild Cuckoos lay their eggs in Crow's nests. When chicks hatch.,they all look and act the same. 
+In the wild, Cuckoos lay their eggs in Crow's nests. When chicks hatch, they all look and act the same. 
 
 How can one tell them a part?
 

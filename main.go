@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	version = "kakaPika ver 1.0b  Copyright (c) Evuraan <evuraan@gmail.com>"
+	version = "kakaPika ver 1.0c\nCopyright (c) Evuraan <evuraan@gmail.com>"
 	// encoded {"system":{"set_relay_state":{"state":1}}}
 	payloadOn = "AAAAKtDygfiL/5r31e+UtsWg1Iv5nPCR6LfEsNGlwOLYo4HyhueT9tTu36Lfog=="
 
